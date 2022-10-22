@@ -1,0 +1,36 @@
+body {
+    font-family: Mulish;
+    background-color: #eee;
+}
+
+.clicked{
+    text-decoration: line-through;
+    color: grey;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(98, 0, 255);
+    text-shadow: 2px 2px 2px grey;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(98, 0, 255);
+    text-shadow: 2px 2px 2px gray;
+}
+
+h6 {
+    text-align: center;
+    color: rgba(0, 0, 0, .3);
+}
+
+form {
+    display: table;
+    margin: 0 auto;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
